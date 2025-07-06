@@ -63,13 +63,27 @@ Here are the most important languages and tools you need to learn to become a fr
 
 ---
 
-## 📫 Contact Me
-
-Feel free to check my projects or reach out through my GitHub profile:
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Hamada-Codes">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <a href="https://github.com/Hamada-Codes" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/your-profile" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@your-channel" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/yourusername" target="_blank">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
