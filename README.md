@@ -22,6 +22,26 @@ I believe in:
 
 ---
 
+## 🧠 Languages You Need to Learn to Become a Front-End Developer
+
+Here are the most important languages and tools you need to learn to become a front-end developer:
+
+1. **HTML** – The basic structure of every webpage  
+2. **CSS** – For styling, colors, layout, and design  
+3. **JavaScript** – To add interactivity and dynamic behavior  
+4. **Responsive Design** – Using media queries, Flexbox, and Grid  
+5. **Git & GitHub** – Version control and collaboration  
+6. **Frameworks & Libraries** *(after basics)*:
+   - **Bootstrap** – For fast and responsive design
+   - **React.js** – For building advanced user interfaces
+
+🔧 Extra tools to explore later:
+- **Tailwind CSS** – Utility-first CSS framework
+- **TypeScript** – A typed version of JavaScript
+- **Next.js** – React framework for production-ready apps
+
+---
+
 ## 🔧 Technologies & Tools I’m Learning
 
 <p align="center">
