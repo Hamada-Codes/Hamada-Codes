@@ -1,10 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">I'm Hamada Mohamed — Front-End Developer 💻</h2>
 
-<p align="center">
-  🎵 Flute Developer &nbsp;|&nbsp; 🎥 YouTube Content Creator
-</p>
-
 <br/>
 
 <p align="center">
@@ -29,23 +25,43 @@ I believe in:
 
 ---
 
+## 🧠 Languages You Need to Learn to Become a Front-End Developer
+
+Here are the most important languages and tools you need to learn to become a front-end developer:
+
+1. **HTML** 📄 – The basic structure of every webpage  
+2. **CSS** 🎨 – For styling, colors, layout, and design  
+3. **JavaScript** ⚡️ – To add interactivity and dynamic behavior  
+4. **Responsive Design** 📱 – Using media queries, Flexbox, and Grid  
+5. **Git & GitHub** 🧩🐱‍💻 – Version control and collaboration  
+6. **Frameworks & Libraries** *(after basics)*:
+   - **Bootstrap** 🅱️ – For fast and responsive design  
+   - **React.js** ⚛️ – For building advanced user interfaces
+
+🔧 Extra tools to explore later:
+- **Tailwind CSS** 🌬️ – Utility-first CSS framework  
+- **TypeScript** 🔷 – A typed version of JavaScript  
+- **Next.js** 🚀 – React framework for production-ready apps
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- 🟨 **JavaScript**
-- 🔷 **TypeScript**
+- JavaScript ⚡️  
+- TypeScript 🔷
 
 ### 🌐 Web
-- 📄 **HTML**
-- 🎨 **CSS**
+- HTML 📄  
+- CSS 🎨
 
 ### 🧰 Frameworks & Tools
-- ⚛️ **React.js**
-- 🌬️ **Tailwind CSS**
-- 🅱️ **Bootstrap**
-- 🔧 **Git**
-- 🐙 **GitHub**
-- 📝 **VS Code**
+- React ⚛️  
+- Tailwind CSS 🌬️  
+- Bootstrap 🅱️  
+- Git 🔧  
+- GitHub 🐱‍💻  
+- VS Code 📝
 
 ---
 
@@ -63,7 +79,7 @@ I believe in:
   <a href="https://github.com/Hamada-Codes" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
+  
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
