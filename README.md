@@ -1,72 +1,69 @@
-<h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Clayton+Hamilton%2C+PharmD;Welcome+to+my+README" alt="Typing SVG" /></a>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&duration=1500&pause=600&color=0CE82B&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi+there!+👋;I'm+Hamada+Mohamed.;Future+Front-End+Developer+💻" alt="Typing SVG" />
+  </a>
 </h1>
-<br>
-<p><img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px">
-I'm a pharmacist 💊 and clinical informatician 📈 living in <b>Utah</b>, USA. 
-This tiny project has given me an excuse to play with API calls, GitHub Actions, and automated document updates. 
-Today, the sun rose at <b>06:01 AM</b> and sets at <b>09:03 PM</b>. 
-As of <b>08:14 AM MST </b> the temperature is <b>68.1°F</b> 👌😄.</p>
-<br>
-The air quality in my area is currently <b>fair (PM10: 16.96)</b>. This project automatically collects, stores, and visualizes trends in airborne particulate 
-matter changes in my area. Specifically particulate matter smaller than 10 micrometers (PM10).
-<br>
-<br>
-So far, this repo has been collecting PM10 air quality data three times per day for the last <b>1030</b> days.
-During this time, <b>1148</b> of <b>3082</b> ( <b>37.2% </b>) of all PM10 points collected
-exceeded the recommended US EPA level of 50 PM10.
-<br>
-<br>
-<p align="center">
-  <img src="PM10_plot_2025.png" width="600" height="400">
-<img src="PM10_plot_2024.png" width="600" height="400">
-<img src="PM10_plot_2023.png" width="600" height="400">
-<img src="PM10_plot_2022.png" width="600" height="400">
 
-</p>
-<br>
-</p>
-<h3><a href="https://scholar.google.com/citations?hl=en&user=53-926AAAAAJ&view_op=list_works&sortby=pubdate"><b>Find my recent publications on my Google Scholar profile</b></a></h3>
-<h3>My Blog Post(s)</h3>
-<ul>
-  <li><a href="https://clayton-hamilton.medium.com/is-a-pharmacy-residency-right-for-you-9660f6e35fcb"><b>Is pharmacy residency right for you?</b></a><br/><i>Things to ponder prior to entering the ASHP match process.</i></li>
-</ul>
-<h3 align="center">📄 Favorite Languages:</h3>
+<br/>
+
 <p align="center">
-<a target="_blank"><img alt="SQL" src="https://img.shields.io/badge/-SQL-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge&logoColor=yellow"/></a> 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="coding gif">
 </p>
-<h3 align="center">⚒ Tools I use:</h3>
+
+---
+
+## 👨‍💻 About Me
+
+Hey! I'm **Hamada Mohamed**, also known as **Hamada-Codes** on GitHub.
+
+I'm currently learning to become a **Front-End Developer**, and I’m passionate about creating clean and responsive user interfaces.
+
+I believe in:
+- Writing code that is simple and readable.
+- Learning by building real projects.
+- Growing every day, one line of code at a time.
+
+---
+
+## 🔧 Technologies & Tools I’m Learning
+
 <p align="center">
-<a target="_blank"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-%2312100E.svg?logo=microsoft-sql-server&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
-<a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
-<a target="_blank"><img alt="Report Builder" src="https://img.shields.io/badge/Report%20Builder-%2312100E.svg?logo=Power%20BI&logoColor=red&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-black?logo=Power%20BI&logoColor=yellow&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a> 
-<a target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/></a> 
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
 </p>
-<h3 align="center">Find me on</h3>
-<p align="center"><a 
-href="https://github.com/claytonjhamilton" target="_blank"><img alt="Github" 
-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a 
-href="https://www.linkedin.com/in/clayton-j-hamilton" target="_blank"><img alt="LinkedIn" 
-src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
-href="https://medium.com/@clayton-hamilton" target="_blank"><img alt="Medium" 
-src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
-href="https://stackoverflow.com/users/14122375/hamiltonpharmd" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/14122375" /></a> 
-</p>
+
+---
+
+## 📈 My GitHub Stats
+
 <p align="center">
-<br>
-<text>Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live. Code for readability.<br> —John Woods</text>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamada-Codes&show_icons=true&theme=tokyonight" alt="Hamada's GitHub Stats" />
 </p>
-<br>
+
+---
+
+## 📫 Contact Me
+
+Feel free to check my projects or reach out through my GitHub profile:
+
 <p align="center">
-  <img alt="centered image" height="85" src="images/us.svg"/>
-  <br>
-  <img alt="README Update" 
-  src="https://github.com/claytonjhamilton/claytonjhamilton/actions/workflows/readme_update.yaml/badge.svg" />
-  <br>
-Last updated on: 2025-07-06 08:14 AM MST
+  <a href="https://github.com/Hamada-Codes">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote I Like
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+<p align="center">
+  🚀 Stay tuned... I'm just getting started!
 </p>
