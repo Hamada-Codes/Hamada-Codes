@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm Hamada Mohamed — Future Front-End Developer 💻</h2>
+<h2 align="center">I'm Hamada Mohamed — Front-End Developer 💻</h2>
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 Hey! I'm **Hamada Mohamed**, also known as **Hamada-Codes** on GitHub.
 
-I'm currently learning to become a **Front-End Developer**, and I’m passionate about creating clean and responsive user interfaces.
+I'm learning and working towards becoming a **Front-End Developer**, and I’m passionate about creating clean and responsive user interfaces.
 
 I believe in:
 - Writing code that is simple and readable.
